@@ -116,7 +116,7 @@ h3 {
 
 
 .header .container .button-box .arrow {
-  background-image: url(../img/header/arrow.png);
+  background-image: url(./img/header/arrow.png);
   width: 25px;
   height: 16px;
   position: absolute;
@@ -150,7 +150,7 @@ h3 {
     margin: auto;
   }
   .burger-icon {
-    background-image: url(../img/header/burger.png);
+    background-image: url(./img/header/burger.png);
     width: 50px;
     height: 50px;
     z-index: 50;
@@ -357,7 +357,7 @@ background: #8A40EE;
 .storage-bank .container .photo__data {
   width: 400px;
   height: 410px;
-  background-image: url(../img/data-storage.png);
+  background-image: url(./img/data-storage.png);
 }
 .storage-bank .container .text {
   padding: 35px 0;
@@ -425,7 +425,7 @@ background: #8A40EE;
   top: 20px;
   right: 50px;
   z-index: 1;
-  background-image: url(../img/features/bg-image1.png);
+  background-image: url(./img/features/bg-image1.png);
   width: 195px;
   height: 140px;
 }
@@ -433,7 +433,7 @@ background: #8A40EE;
   position: absolute;
   left: -160px;
   top: 103px;
-  background-image: url(../img/features/card-image1.png);
+  background-image: url(./img/features/card-image1.png);
   width: 230px;
   height: 180px;
 }
@@ -453,7 +453,7 @@ background: #8A40EE;
   position: relative;
 }
 .features .container .list__item .text-box a .arrow {
-  background-image: url(../img/header/arrow.png);
+  background-image: url(./img/header/arrow.png);
   height: 17px;
   width: 23px;
   position: absolute;
@@ -468,7 +468,7 @@ background: #8A40EE;
   top: 163px;
   right: 20px;
   z-index: 1;
-  background-image: url(../img/features/bg-image2.png);
+  background-image: url(./img/features/bg-image2.png);
   width: 211px;
   height: 151px;
 }
@@ -476,7 +476,7 @@ background: #8A40EE;
   position: absolute;
   left: -160px;
   top: 103px;
-  background-image: url(../img/features/card-image2.png);
+  background-image: url(./img/features/card-image2.png);
   width: 230px;
   height: 180px;
 }
@@ -496,7 +496,7 @@ background: #8A40EE;
   position: relative;
 }
 .features .container .list__item:nth-child(2) .text-box a .arrow {
-  background-image: url(../img/header/arrow.png);
+  background-image: url(./img/header/arrow.png);
   height: 17px;
   width: 23px;
   position: absolute;
@@ -511,7 +511,7 @@ background: #8A40EE;
   top: 20px;
   right: 20px;
   z-index: 1;
-  background-image: url(../img/features/bg-image3.png);
+  background-image: url(./img/features/bg-image3.png);
   width: 65px;
   height: 51px;
 }
@@ -519,7 +519,7 @@ background: #8A40EE;
   position: absolute;
   left: -160px;
   top: 103px;
-  background-image: url(../img/features/card-image3.png);
+  background-image: url(./img/features/card-image3.png);
   width: 230px;
   height: 180px;
 }
@@ -539,7 +539,7 @@ background: #8A40EE;
   position: relative;
 }
 .features .container .list__item:nth-child(3) .text-box a .arrow {
-  background-image: url(../img/header/arrow.png);
+  background-image: url(./img/header/arrow.png);
   height: 17px;
   width: 23px;
   position: absolute;
@@ -554,7 +554,7 @@ background: #8A40EE;
   top: 20px;
   right: 20px;
   z-index: 1;
-  background-image: url(../img/features/bg-image4.png);
+  background-image: url(./img/features/bg-image4.png);
   width: 360px;
   height: 360px;
 }
@@ -562,7 +562,7 @@ background: #8A40EE;
   position: absolute;
   left: -160px;
   top: 103px;
-  background-image: url(../img/features/card-image4.png);
+  background-image: url(./img/features/card-image4.png);
   width: 230px;
   height: 180px;
   z-index: 1;
@@ -583,7 +583,7 @@ background: #8A40EE;
   position: relative;
 }
 .features .container .list__item:nth-child(4) .text-box a .arrow {
-  background-image: url(../img/header/arrow.png);
+  background-image: url(./img/header/arrow.png);
   height: 17px;
   width: 23px;
   position: absolute;
@@ -650,7 +650,7 @@ background: #8A40EE;
     position: absolute;
     left: -30px;
     top: 260px;
-    background-image: url(../img/features/card-image1.png);
+    background-image: url(./img/features/card-image1.png);
     width: 230px;
     height: 180px;
   }
@@ -671,7 +671,7 @@ background: #8A40EE;
     align-self: flex-end;
   }
   .main .features .container .list__item .text-box a .arrow {
-    background-image: url(../img/header/arrow.png);
+    background-image: url(./img/header/arrow.png);
     height: 17px;
     width: 23px;
     position: absolute;
@@ -685,7 +685,7 @@ background: #8A40EE;
     position: absolute;
     left: -30px;
     top: 260px;
-    background-image: url(../img/features/card-image2.png);
+    background-image: url(./img/features/card-image2.png);
     width: 230px;
     height: 180px;
   }
@@ -705,7 +705,7 @@ background: #8A40EE;
     position: relative;
   }
   .main .features .container .list__item:nth-child(2) .text-box a .arrow {
-    background-image: url(../img/header/arrow.png);
+    background-image: url(./img/header/arrow.png);
     height: 17px;
     width: 23px;
     position: absolute;
@@ -720,7 +720,7 @@ background: #8A40EE;
     top: 20px;
     right: 20px;
     z-index: 1;
-    background-image: url(../img/features/bg-image3.png);
+    background-image: url(./img/features/bg-image3.png);
     width: 65px;
     height: 51px;
   }
@@ -728,7 +728,7 @@ background: #8A40EE;
     position: absolute;
     left: -30px;
     top: 260px;
-    background-image: url(../img/features/card-image3.png);
+    background-image: url(./img/features/card-image3.png);
     width: 230px;
     height: 180px;
   }
@@ -748,7 +748,7 @@ background: #8A40EE;
     position: relative;
   }
   .main .features .container .list__item:nth-child(3) .text-box a .arrow {
-    background-image: url(../img/header/arrow.png);
+    background-image: url(./img/header/arrow.png);
     height: 17px;
     width: 23px;
     position: absolute;
@@ -879,7 +879,7 @@ background: #8A40EE;
     position: relative;
   }
   .main__item:nth-child(4) .text-box a .arrow {
-    background-image: url(../img/header/arrow.png);
+    background-image: url(./img/header/arrow.png);
     height: 17px;
     width: 23px;
     position: absolute;
@@ -906,7 +906,7 @@ background: #8A40EE;
   background-color: #ccddff;
   padding: 80px 70px;
   border-radius: 50px;
-  background-image: url(../img/testmotional/bg-image.svg);
+  background-image: url(./img/testmotional/bg-image.svg);
 }
 .testi h3 {
   text-align: center;
@@ -927,7 +927,7 @@ background: #8A40EE;
   gap: 15px;
 }
 .testi .card-list .card-list__item .photo {
-  background-image: url(../img/testmotional/avatar1.png);
+  background-image: url(./img/testmotional/avatar1.png);
   height: 90px;
   width: 90px;
 }
@@ -947,7 +947,7 @@ background: #8A40EE;
   gap: 15px;
 }
 .testi .card-list .card-list__item:nth-child(2) .photo {
-  background-image: url(../img/testmotional/avatar2.png);
+  background-image: url(./img/testmotional/avatar2.png);
   height: 90px;
   width: 90px;
 }
@@ -1015,7 +1015,7 @@ background: #8A40EE;
   height: 60px;
 }
 .button-box .arrow {
-  background-image: url(../img/header/arrow.png);
+  background-image: url(./img/header/arrow.png);
   width: 25px;
   height: 16px;
   position: absolute;
