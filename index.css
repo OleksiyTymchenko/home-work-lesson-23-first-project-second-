@@ -117,16 +117,16 @@ h3 {
 
 .header .container .button-box .arrow {
   background-image: url(./img/header/arrow.png);
-  width: 25px;
+  width: 22px;
   height: 16px;
   position: absolute;
-  top: 17px;
+  top: 21px;
   right: 18px;
+  
 }
-.header .container .button-box:hover .arrow,
-.footer .button:hover .arrow{
+.header .container .button-box:hover .arrow{
   background-image: url(./img/header/arrow-hover.png);
-  width: 25px;
+  width: 22px;
   height: 16px;
 }
 /*======================= burger ===========================*/
@@ -1016,11 +1016,23 @@ background: #8A40EE;
 }
 .button-box .arrow {
   background-image: url(./img/header/arrow.png);
-  width: 25px;
+  width: 22px;
   height: 16px;
   position: absolute;
-  top: 17px;
+  top: 21px;
   right: 18px;
+}
+
+
+.button-box:hover .arrow {
+  background-image: url(./img/header/arrow-hover.png);
+  width: 22px;
+  height: 16px;
+  position: absolute;
+  top: 21px;
+  right: 18px;
+  cursor: pointer;
+  z-index: 1;
 }
 
 .button.yellow {
